@@ -5,4 +5,4 @@ int main(int argc, char const *argv[])
 	printf("hahaha\n");
 	return 0;
 }
-/*智障 杪杪*/
+/*智障 小熊*/
