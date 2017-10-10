@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include <stdio.h>
 int main(int argc, char const *argv[])
 {
 	printf("hello world!\n");
@@ -6,3 +6,4 @@ int main(int argc, char const *argv[])
 	return 0;
 }
 /*智障 小熊*/
+/*胡说，我一点都不智障！*/
